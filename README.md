@@ -35,11 +35,11 @@ git clone https://github.com/rahilkotwal02/stack-queue-visualizer.git
 
 ## 2. Navigate into the project folder
 ``` bash
-cd 
+cd stack-queue-visualizer
 ```
 
 ## 3. Open the project in your browser
-open index.html
+Right-click on the `index.html` file.
 
 
 ---
