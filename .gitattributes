@@ -1,0 +1,6 @@
+# Ignore all CSS files in stats
+*.css linguist-vendored
+*.min.css linguist-vendored
+
+# Ignore all HTML files in stats
+*.html linguist-vendored
